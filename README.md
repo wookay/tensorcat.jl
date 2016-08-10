@@ -11,6 +11,8 @@ $ julia
  _/ |\__'_|_|_|\__'_|  |  Commit 2037464* (0 days old master)
 |__/                   |  x86_64-apple-darwin16.0.0
 
+julia> Pkg.add("TensorFlow")
+
 julia> Pkg.checkout("TensorFlow")
 ```
 
